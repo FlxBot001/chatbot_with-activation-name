@@ -1,0 +1,54 @@
+{
+    "intents": [
+        {
+            "tag": "greetings",
+            "patterns": [
+                "Hi",
+                "Hello",
+                "Hey",
+                "What's up?",
+                "How are you doing?",
+                "How are you Holding up?",
+                "How have you been?"
+            ],
+            "responses": [
+                "Hey Sir!",
+                "What can I do for you?",
+                "How can I help you?",
+                "Hello, how can I be of help?"
+            ]
+        },
+        {
+            "tag": "neuraline",
+            "patterns": [
+                "What is Neuraline",
+                "Tell me about Neuraline",
+                "Who is Neuraline",
+                "What is Neuralnine"
+            ],
+            "responses": [
+                "NeuralNine is a Youtube channel and an online brand, which forcuses on programming, machine learning and deep neural network"
+            ]
+        },
+        {
+            "tag": "name",
+            "patterns": [
+                "What is your name",
+                "What should I call you?",
+                "Who are you?",
+                "What are you"
+            ],
+            "responses": [
+                "My name is Edeth!, Assistant creted by Felix"
+            ]
+        },
+        {
+            "tag": "file",
+            "patterns": [
+                "Create a file",
+                "Create a new file"
+            ],
+            "responses": []
+        }
+    ]
+}
